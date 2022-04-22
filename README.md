@@ -1,3 +1,3 @@
-# UFA_Learning
+# a friendly journey
 
-Developed with Unreal Engine 5
+startup project for my own projects with everything that is needed :)
