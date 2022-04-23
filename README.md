@@ -8,4 +8,4 @@ just have to change:
   - go to `Config/DefaultEngine.ini` and change the FriendlyJourney by own project name
   - go to `Config/DefaultGame.ini` and change the FriendlyJourney by own project name
 
-+ if you want to remove completely the remote git repository link you can run `rm -rf .git` in the project root folder.
+_if you want to remove completely the remote git repository link you can run `rm -rf .git` in the project root folder._
